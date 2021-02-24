@@ -1,0 +1,15 @@
+package sk.kosickaakademia.stovcikova.gitkoxxx;
+
+public class Main {
+    public static void main(String[] args) {
+
+        String str1 = "Java";
+        String str2 = "PHP";
+
+        System.out.println(str1.length());
+        System.out.println(str2.length());
+        System.out.println("Java".trim().length());
+
+
+    }
+}
